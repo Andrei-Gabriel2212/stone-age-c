@@ -4,6 +4,8 @@ A terminal implementation of the board game **Stone Age** for 2 players, written
 
 Built as an individual university project at **Politehnica University of Timișoara** (Faculty of Automation and Computers, 1st year). Every student implemented the same game independently; in the final phase, each student's AI agent was matched in a **duel** against the agent built by a classmate.
 
+   ![Stone Age gameplay – Human vs BotEU](screenshot.png)
+   
 ---
 
 ## Features
