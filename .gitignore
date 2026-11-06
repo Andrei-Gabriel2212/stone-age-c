@@ -1,0 +1,14 @@
+# build
+cmake-build-*/
+build/
+*.exe
+*.o
+
+# IDE / tool folders
+.idea/
+.claude/
+__pycache__/
+
+# runtime files
+game_log.txt
+savegame.dat
